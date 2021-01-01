@@ -1,0 +1,9 @@
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\obj\Release\netcoreapp3.1\LCrawl.AssemblyInfoInputs.cache
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\obj\Release\netcoreapp3.1\LCrawl.AssemblyInfo.cs
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\obj\Release\netcoreapp3.1\LCrawl.csproj.CoreCompileInputs.cache
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\bin\Release\netcoreapp3.1\LCrawl.deps.json
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\bin\Release\netcoreapp3.1\LCrawl.dll
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\bin\Release\netcoreapp3.1\LCrawl.pdb
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\obj\Release\netcoreapp3.1\LCrawl.csprojAssemblyReference.cache
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\obj\Release\netcoreapp3.1\LCrawl.dll
+C:\Users\rashmi\source\repos\AbotTutorial\LCrawl\obj\Release\netcoreapp3.1\LCrawl.pdb

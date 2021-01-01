@@ -1,0 +1,146 @@
+[17:34:47 INF] Crawler starting up!
+[17:34:47 INF] About to crawl site [https://www.udemy.com/]
+[17:34:47 INF] Configuration Values:
+[17:34:47 INF]   Abot Version: 2.0.64.0
+[17:34:47 INF]   MaxConcurrentThreads: 10
+[17:34:47 INF]   MaxPagesToCrawl: 100
+[17:34:47 INF]   MaxPagesToCrawlPerDomain: 0
+[17:34:47 INF]   MaxPageSizeInBytes: 0
+[17:34:47 INF]   UserAgentString: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+[17:34:47 INF]   HttpProtocolVersion: NotSpecified
+[17:34:47 INF]   CrawlTimeoutSeconds: 0
+[17:34:47 INF]   IsUriRecrawlingEnabled: True
+[17:34:47 INF]   IsExternalPageCrawlingEnabled: False
+[17:34:47 INF]   IsExternalPageLinksCrawlingEnabled: False
+[17:34:47 INF]   IsRespectUrlNamedAnchorOrHashbangEnabled: False
+[17:34:47 INF]   DownloadableContentTypes: text/html
+[17:34:47 INF]   HttpServicePointConnectionLimit: 200
+[17:34:47 INF]   HttpRequestTimeoutInSeconds: 15
+[17:34:47 INF]   HttpRequestMaxAutoRedirects: 7
+[17:34:47 INF]   IsHttpRequestAutoRedirectsEnabled: True
+[17:34:47 INF]   IsHttpRequestAutomaticDecompressionEnabled: False
+[17:34:47 INF]   IsSendingCookiesEnabled: False
+[17:34:47 INF]   IsSslCertificateValidationEnabled: False
+[17:34:47 INF]   MinAvailableMemoryRequiredInMb: 0
+[17:34:47 INF]   MaxMemoryUsageInMb: 0
+[17:34:47 INF]   MaxMemoryUsageCacheTimeInSeconds: 0
+[17:34:47 INF]   MaxCrawlDepth: 100
+[17:34:47 INF]   MaxLinksPerPage: 0
+[17:34:47 INF]   IsForcedLinkParsingEnabled: False
+[17:34:47 INF]   MaxRetryCount: 0
+[17:34:47 INF]   MinRetryDelayInMilliseconds: 0
+[17:34:47 INF]   IsRespectRobotsDotTextEnabled: False
+[17:34:47 INF]   IsRespectMetaRobotsNoFollowEnabled: False
+[17:34:47 INF]   IsRespectHttpXRobotsTagHeaderNoFollowEnabled: False
+[17:34:47 INF]   IsRespectAnchorRelNoFollowEnabled: False
+[17:34:47 INF]   IsIgnoreRobotsDotTextIfRootDisallowedEnabled: False
+[17:34:47 INF]   RobotsDotTextUserAgentString: abot
+[17:34:47 INF]   MinCrawlDelayPerDomainMilliSeconds: 3000
+[17:34:47 INF]   MaxRobotsDotTextCrawlDelayInSeconds: 5
+[17:34:47 INF]   IsAlwaysLogin: False
+[17:34:47 INF]   LoginUser: ashpat86@gmail.com
+[17:34:47 INF]   LoginPassword: udemyhash#1
+[17:34:47 INF]   UseDefaultCredentials: True
+[17:34:48 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/] Elapsed:[931.1134] Parent:[https://www.udemy.com/] Retry:[0]
+[17:34:49 INF] MaxPagesToCrawlLimit has been reached or scheduled. No more pages will be scheduled.
+[17:34:51 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/data-science/] Elapsed:[239.7002] Parent:[https://www.udemy.com/] Retry:[0]
+[17:34:54 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/] Elapsed:[227.5676] Parent:[https://www.udemy.com/] Retry:[0]
+[17:34:58 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/] Elapsed:[516.8124] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:00 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/web-development/] Elapsed:[281.4274] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:03 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/mobile-apps/] Elapsed:[242.7381] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:07 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/programming-languages/] Elapsed:[256.3602] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:10 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/game-development/] Elapsed:[288.551] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:13 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/databases/] Elapsed:[268.4743] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:16 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/software-testing/] Elapsed:[281.9109] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:19 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/software-engineering/] Elapsed:[235.7609] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:22 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/development-tools/] Elapsed:[363.9226] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:25 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/development/no-code-development/] Elapsed:[235.1663] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:28 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/] Elapsed:[242.1262] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:31 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/entrepreneurship/] Elapsed:[275.0748] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:34 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/communications/] Elapsed:[263.5023] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:37 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/management/] Elapsed:[223.7821] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:40 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/sales/] Elapsed:[247.374] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:43 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/strategy/] Elapsed:[231.2851] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:46 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/operations/] Elapsed:[254.607] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:49 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/project-management/] Elapsed:[295.9128] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:52 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/business-law/] Elapsed:[225.962] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:55 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/analytics-and-intelligence/] Elapsed:[276.4321] Parent:[https://www.udemy.com/] Retry:[0]
+[17:35:58 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/human-resources/] Elapsed:[233.9544] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:01 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/industry/] Elapsed:[290.8087] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:04 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/e-commerce/] Elapsed:[274.429] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:07 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/media/] Elapsed:[251.348] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:10 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/real-estate/] Elapsed:[302.8804] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:13 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/business/other-business/] Elapsed:[294.906] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:16 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/] Elapsed:[253.5251] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:19 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/accounting-bookkeeping/] Elapsed:[300.5401] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:22 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/compliance/] Elapsed:[323.1786] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:26 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/cryptocurrency-and-blockchain/] Elapsed:[210.3914] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:29 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/economics/] Elapsed:[274.4886] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:34 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/finance-management/] Elapsed:[1726.984] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:35 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/finance-certification-and-exam-prep/] Elapsed:[243.3308] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:38 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/financial-modeling-and-analysis/] Elapsed:[250.4167] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:41 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/investing-and-trading/] Elapsed:[288.8723] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:44 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/money-management-tools/] Elapsed:[246.6244] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:47 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/taxes/] Elapsed:[246.6107] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:50 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/finance-and-accounting/other-finance-and-accounting/] Elapsed:[254.6862] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:53 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/it-and-software/] Elapsed:[216.1823] Parent:[https://www.udemy.com/] Retry:[0]
+[17:36:57 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/it-and-software/it-certification/] Elapsed:[248.2226] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:00 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/it-and-software/network-and-security/] Elapsed:[310.4132] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:03 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/it-and-software/hardware/] Elapsed:[250.6216] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:06 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/it-and-software/operating-systems/] Elapsed:[266.4059] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:09 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/it-and-software/other-it-and-software/] Elapsed:[465.8902] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:12 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/office-productivity/] Elapsed:[213.2818] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:15 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/office-productivity/microsoft/] Elapsed:[329.3811] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:18 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/office-productivity/apple/] Elapsed:[304.6981] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:21 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/office-productivity/google/] Elapsed:[258.1217] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:24 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/office-productivity/sap/] Elapsed:[253.3007] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:27 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/office-productivity/oracle/] Elapsed:[244.2333] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:30 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/office-productivity/other-productivity/] Elapsed:[229.4439] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:33 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/] Elapsed:[230.0588] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:36 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/personal-transformation/] Elapsed:[243.0658] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:39 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/productivity/] Elapsed:[251.2884] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:42 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/leadership/] Elapsed:[250.033] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:45 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/career-development/] Elapsed:[296.0198] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:48 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/parenting-and-relationships/] Elapsed:[295.3686] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:51 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/happiness/] Elapsed:[277.7417] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:54 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/lifestyle/esoteric-practices/] Elapsed:[276.9659] Parent:[https://www.udemy.com/] Retry:[0]
+[17:37:57 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/religion-and-spirituality/] Elapsed:[218.131] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:00 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/personal-brand-building/] Elapsed:[241.3816] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:03 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/creativity/] Elapsed:[261.7589] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:06 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/influence/] Elapsed:[238.2947] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:09 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/self-esteem-and-confidence/] Elapsed:[240.0043] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:12 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/stress-management/] Elapsed:[232.0863] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:15 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/memory/] Elapsed:[227.4037] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:18 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/motivation/] Elapsed:[256.85] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:21 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/personal-development/other-personal-development/] Elapsed:[298.6334] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:24 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/] Elapsed:[237.4813] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:27 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/web-design/] Elapsed:[244.8351] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:31 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/graphic-design-and-illustration/] Elapsed:[229.7989] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:34 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/design-tools/] Elapsed:[278.6262] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:37 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/user-experience/] Elapsed:[246.3575] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:40 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/game-design/] Elapsed:[320.2911] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:43 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/design-thinking/] Elapsed:[241.9061] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:46 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/3d-and-animation/] Elapsed:[232.3382] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:49 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/fashion/] Elapsed:[247.5166] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:52 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/architectural-design/] Elapsed:[245.1979] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:55 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/interior-design/] Elapsed:[234.5738] Parent:[https://www.udemy.com/] Retry:[0]
+[17:38:58 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/design/other-design/] Elapsed:[244.7173] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:01 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/] Elapsed:[219.6476] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:04 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/digital-marketing/] Elapsed:[223.3895] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:07 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/search-engine-optimization/] Elapsed:[242.0407] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:10 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/social-media-marketing/] Elapsed:[240.1741] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:13 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/branding/] Elapsed:[341.0206] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:16 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/marketing-fundamentals/] Elapsed:[248.0481] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:19 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/analytics-and-automation/] Elapsed:[226.3967] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:22 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/public-relations/] Elapsed:[247.9074] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:25 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/advertising/] Elapsed:[222.2264] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:28 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/video-and-mobile-marketing/] Elapsed:[223.5611] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:31 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/content-marketing/] Elapsed:[259.2256] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:34 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/growth-hacking/] Elapsed:[328.8776] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:38 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/affiliate-marketing/] Elapsed:[241.2477] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:41 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/product-marketing/] Elapsed:[250.3116] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:44 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/marketing/other-marketing/] Elapsed:[247.3842] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:47 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/lifestyle/] Elapsed:[257.6156] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:50 INF] Page crawl complete, Status:[200] Url:[https://www.udemy.com/courses/lifestyle/arts-and-crafts/] Elapsed:[221.8387] Parent:[https://www.udemy.com/] Retry:[0]
+[17:39:52 INF] Crawl complete for site [https://www.udemy.com/]: Crawled [100] pages in [00:05:04.6956284]
+[17:39:53 INF] { url = http://google.com/, status = 200 }

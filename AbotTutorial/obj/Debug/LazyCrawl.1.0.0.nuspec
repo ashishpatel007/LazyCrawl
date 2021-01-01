@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LazyCrawl</id>
+    <version>1.0.0</version>
+    <authors>LazyCrawl</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>logo.png</icon>
+    <projectUrl>https://github.com/ashishpatel007/LazyCrawl</projectUrl>
+    <description>Package Description</description>
+    <tags>Crawler, Web, Text</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="Abot" version="2.0.64" exclude="Build,Analyzers" />
+        <dependency id="log4net" version="2.0.9" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rashmi\source\repos\AbotTutorial\AbotTutorial\bin\Debug\netcoreapp3.1\LazyCrawl.runtimeconfig.json" target="lib\netcoreapp3.1\LazyCrawl.runtimeconfig.json" />
+    <file src="C:\Users\rashmi\source\repos\AbotTutorial\AbotTutorial\bin\Debug\netcoreapp3.1\LazyCrawl.dll" target="lib\netcoreapp3.1\LazyCrawl.dll" />
+    <file src="C:\Users\rashmi\Desktop\LazyCrawl\license.txt" target="license.txt" />
+    <file src="C:\Users\rashmi\Desktop\logo.png" target="logo.png" />
+  </files>
+</package>
